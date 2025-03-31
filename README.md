@@ -1,2 +1,2 @@
-# Flower_shop_ecommers_app_react
-Ecommers application flower shop react.
+# Flower_shop_eccommers_app_react
+Eccommers application flower shop react.
